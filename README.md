@@ -31,7 +31,7 @@ The annotation files required for training and evaluation can be downloaded from
 
 ## Counterfactual Generation Process
 
-The implementation for counterfactual generation can be found in the file models/blip.py at line 419. This process is a crucial component of our contrastive learning framework, enabling the generation of counterfactual explanations during training.
+The implementation for counterfactual generation can be found in the file [models/blip.py at line 419](https://github.com/mlii0117/CoFE/blob/main/models/blip.py#L419). This process is a crucial component of our contrastive learning framework, enabling the generation of counterfactual explanations during training.
 
 ## Citation
 
