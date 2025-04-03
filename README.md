@@ -38,12 +38,12 @@ The implementation for counterfactual generation can be found in the file [model
 If you find this code useful for your research, please consider citing our work:
 
 ```bash
-@inproceedings{li2025contrastive,
+@inproceedings{li2024contrastive,
   title={Contrastive learning with counterfactual explanations for radiology report generation},
   author={Li, Mingjie and Lin, Haokun and Qiu, Liang and Liang, Xiaodan and Chen, Ling and Elsaddik, Abdulmotaleb and Chang, Xiaojun},
   booktitle={European Conference on Computer Vision},
   pages={162--180},
-  year={2025},
+  year={2024},
   organization={Springer}
 }
 ```
